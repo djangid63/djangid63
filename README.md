@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devesh Jangid
 - 👀 I’m interested in Web Development (Mostly in Animated Websites)
-- 🌱 I’m currently learning Javascript,React, Tailwind CSS nd more pipeline
+- 🌱 I’m currently learning Javascript,React, Tailwind CSS and more in the pipeline
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me Jangiddevesh031@gmail.com
 - 😄 Pronouns: He/him
