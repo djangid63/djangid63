@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Devesh Jangid
-- 👀 I’m interested in Web Development (Mostly in Animated Websites)
-- 🌱 I’m currently learning Javascript,React, Tailwind CSS and more in the pipeline
-- 💞️ I’m looking to collaborate on front end projects
-- 📫 How to reach me Jangiddevesh031@gmail.com
+- 👀 I’m interested in Web Development, especially in creating animated websites.
+- 🌱 I’m currently learning JavaScript, React, Tailwind CSS, with more technologies in the pipeline.
+- 💞️ I’m looking to collaborate on front-end projects.
+- 📫 How to reach me: Jangiddevesh031@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm still newbie in tech field and stucking here and there but within 6 months i will be a front end developer and before 2026 i will be a full stack developer
+- ⚡ Fun fact: 
+
+🌟 **Aspiring Developer on a Journey** 🌟
+
+Hello! I'm currently diving into the tech field, learning and growing every day. My goal is to become a proficient front-end developer within the next 6 months. By 2026, I aim to expand my skills and knowledge to become a full-stack developer. Join me on this exciting journey as I explore the world of coding and development!
 
 <!---
 djangid63/djangid63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
