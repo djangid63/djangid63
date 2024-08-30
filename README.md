@@ -8,7 +8,7 @@
 
 🌟 **Aspiring Developer on a Journey** 🌟
 
-Hello! I'm currently diving into the tech field, learning and growing every day. My goal is to become a proficient front-end developer within the next 6 months. By 2026, I aim to expand my skills and knowledge to become a full-stack developer. Join me on this exciting journey as I explore the world of coding and development!
+Hello! I'm currently diving into the tech field, learning and growing every day. My goal is to become a full stack developer within the next year. Join me on this exciting journey as I explore the world of coding and development!
 
 <!---
 djangid63/djangid63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
